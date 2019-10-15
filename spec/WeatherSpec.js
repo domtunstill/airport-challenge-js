@@ -1,4 +1,4 @@
-describe ('Airport', function() {
+describe ('Weather', function() {
 
     var weather
 
